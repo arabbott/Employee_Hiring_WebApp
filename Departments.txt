@@ -1,0 +1,3 @@
+Human-Resources#The department that deals with the hiring, administration, and training of personnel.
+Software-Development#The department that deals with the development of new software.
+Media-Relations#The department that deals with all media relations.
